@@ -8,7 +8,9 @@ title: Lê Quang Tuệ
 
 I combine maps, data, and visualization to tell stories about the forces shaping Vietnam — from how political history left a "green debt" in its cities, to how a typhoon dismantled a mountainside. With experience at Zing News, VnExpress International, and VnExpress, I report on urban development, public policy, and environmental resilience. I also build open-source civic tools that make geographic and administrative data accessible to the public. I attended the Master of Public Policy program at Fulbright School of Public Policy and Management (FSPPM) and am applying for a PhD in Urban Planning.
 
-[GitHub](https://github.com/lqtue) · [LinkedIn](https://vn.linkedin.com/in/lqtue) · [VnExpress](https://vnexpress.net)
+[GitHub](https://github.com/lqtue) · [LinkedIn](https://vn.linkedin.com/in/lqtue) · [VnExpress](https://vnexpress.net) · [Download CV](https://github.com/lqtue/VWAI/blob/main/team/CV_Tue.docx.pdf)
+
+**Jump to:** [Awards](#awards) · [Education](#education) · [Research](#research-interests) · [Publications](#publications) · [Projects](#projects) · [Journalism](#data-journalism) · [Skills](#skills) · [Press & Talks](#press--talks) · [Contact](#contact)
 
 ---
 
@@ -38,6 +40,15 @@ National Journalism Award 2024
 
 ---
 
+## Education
+
+**Fulbright School of Public Policy and Management (FSPPM)** — Master of Public Policy
+Completed coursework; thesis not submitted.
+
+**University of Social Sciences and Humanities, Vietnam National University Ho Chi Minh City** — BA, International Relations
+
+---
+
 ## Research Interests
 
 How have successive planning regimes — French colonial, wartime, socialist, reform-era — encoded spatial inequality into Ho Chi Minh City's built form, and what constraints does this accumulated urban inheritance impose on contemporary climate-adaptive planning decisions? I approach this question through spatial-historical analysis, combining georeferenced historical cartography (via the Vietnam Map Archive) with archival research, land use statistics, and primary-source interviews with former planning officials. I am applying for PhD programs in Urban Planning to pursue this research full-time.
@@ -51,7 +62,7 @@ How have successive planning regimes — French colonial, wartime, socialist, re
 :link: https://doi.org/10.31223/X5NJ4B
 **Urban Green Cover and Land Surface Temperature in Ho Chi Minh City: A Remote Sensing Analysis of Vegetation Cooling Effects Across Historical Development Rings, 1990–2025**
 
-*Pre-print · EarthArXiv · March 2026 · [doi:10.31223/X5NJ4B](https://doi.org/10.31223/X5NJ4B)*
+*Sole author · Pre-print · EarthArXiv · March 2026 · [doi:10.31223/X5NJ4B](https://doi.org/10.31223/X5NJ4B)*
 
 Satellite imagery from 1990–2025 reveals that Ho Chi Minh City shed 130 km² of vegetation between 2000 and 2020, leaving 36 wards with critically low canopy coverage. Dense green areas are over 4°C cooler than concrete surfaces — demonstrating that the city's heat crisis reflects historical planning decisions, not just growth.
 :::
@@ -66,6 +77,7 @@ Satellite imagery from 1990–2025 reveals that Ho Chi Minh City shed 130 km² o
 ::::{grid} 1 1 2 3
 :::{card}
 :link: https://svelte-beta-eight.vercel.app
+![](images/vma.png)
 **Vietnam Map Archive (VMA)**
 
 Research infrastructure for the spatial history of Saigon — the first systematic georeferencing of French colonial and US Army cartographic sources for Ho Chi Minh City. Built as a SvelteKit 5 platform with a 6-layer data stack (georeferenced rasters → cadastral footprints → road networks → knowledge graph → community memory), crowdsourced annotation, AI-assisted vectorization (SAM2), and GPS-guided historical tours.
@@ -75,6 +87,7 @@ Research infrastructure for the spatial history of Saigon — the first systemat
 
 :::{card}
 :link: https://vnexpress.net/topic/50-nam-quy-hoach-tp-hcm-28042
+![](images/saigon-planning.png)
 **50 Years of Saigon Urban Planning**
 
 Systematic analysis of five decades of planning decisions shaping Ho Chi Minh City — drawing on primary documentation, archival maps, and interviews with former officials including Deputy Chief Architect Võ Kim Cương. Covers the colonial grid, wartime expansion, socialist reconstruction, and Doi Moi market reforms.
@@ -84,6 +97,7 @@ Systematic analysis of five decades of planning decisions shaping Ho Chi Minh Ci
 
 :::{card}
 :link: https://github.com/lqtue/phuongnao
+![](images/phuongnao.png)
 **Phường Nào?**
 
 Interactive lookup tool for Ho Chi Minh City's new administrative divisions following the 2025 merger. Search by name or GPS location — returns ward statistics, boundaries, and links to new offices.
@@ -93,6 +107,7 @@ Interactive lookup tool for Ho Chi Minh City's new administrative divisions foll
 
 :::{card}
 :link: https://doi.org/10.31223/X5NJ4B
+![](images/greenest-ward.png)
 **Greenest Ward**
 
 Satellite-based analysis of urban green space equity across Vietnam's 687 urban wards (1990–2025). Three-scale methodology: national ward measurements, HCMC accessibility analysis, and 35-year temporal tracking.
@@ -106,6 +121,7 @@ Satellite-based analysis of urban green space equity across Vietnam's 687 urban 
 ::::{grid} 1 1 2 3
 :::{card}
 :link: https://github.com/lqtue/typhoon-data-platform
+![](images/typhoon.png)
 **Typhoon Data Platform**
 
 Backend data infrastructure powering VnExpress's adverse weather coverage. Crawls live weather APIs into Supabase (PostgreSQL + PostGIS) and exposes a unified REST API for real-time typhoon tracking.
@@ -115,6 +131,7 @@ Backend data infrastructure powering VnExpress's adverse weather coverage. Crawl
 
 :::{card}
 :link: https://github.com/lqtue/WaterDashboard
+![](images/waterdash.png)
 **Water Dashboard**
 
 Tracks water levels on rivers and lakes across Vietnam, flagging areas at risk of flash floods and landslides in near real-time.
@@ -124,6 +141,7 @@ Tracks water levels on rivers and lakes across Vietnam, flagging areas at risk o
 
 :::{card}
 :link: https://github.com/lqtue/environmental-data-hub
+![](images/envhub.png)
 **Environmental Data Hub**
 
 Central index and documentation for all Spotlight environmental data projects — connecting datasets on air quality, flooding, typhoons, and land cover.
