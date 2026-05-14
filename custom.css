@@ -2,6 +2,27 @@
   display: none !important;
 }
 
+/* Hero section */
+h1:first-of-type {
+  font-size: 2.4rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Press & Talks list */
+h2#press-talks + ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+h2#press-talks + ul li {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--myst-color-border, #e5e7eb);
+}
+
+h2#press-talks + ul li:last-child {
+  border-bottom: none;
+}
+
 table td:first-child,
 table th:first-child {
   white-space: nowrap;
