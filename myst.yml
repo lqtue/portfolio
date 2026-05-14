@@ -1,9 +1,19 @@
 version: 1
 project:
-  title: Le-Quang Tue
+  title: Lê Quang Tuệ — Data & Geospatial Storyteller
+  description: Portfolio of Lê Quang Tuệ — data journalism, geospatial research, and civic open-source tools on Vietnamese urban planning, climate, and disaster.
+  keywords:
+    - Vietnam
+    - Ho Chi Minh City
+    - urban planning
+    - geospatial
+    - data journalism
+    - remote sensing
+    - PostGIS
   authors:
-    - name: Le-Quang Tue
+    - name: Lê Quang Tuệ
       url: https://github.com/lqtue
+      github: lqtue
   copyright: '2026'
   exclude:
     - _build
@@ -19,6 +29,7 @@ site:
     logo_dark: logo.png
     favicon: fav.ico
     style: custom.css
+    twitter: lqtue
   template: book-theme
   parts:
     primary_sidebar_footer: ''
