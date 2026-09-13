@@ -213,6 +213,7 @@ Selected works published at [VnExpress](https://vnexpress.net):
 **Urban Planning & History**
 - ★ [Sài Gòn — Ngày 30/4](https://vnexpress.net/sai-gon-ngay-30-4-4876938.html) — interactive multimedia retrospective on April 30, 1975 *(Giải B, Hội Báo Toàn Quốc 2025)*
 - ↗ [50 Years of Saigon Urban Planning](https://vnexpress.net/topic/50-nam-quy-hoach-tp-hcm-28042) — see Projects above
+- [Lookup: 3,321 Wards and Communes Nationwide After the Reorganization](https://vnexpress.net/tra-cuu-3-321-phuong-xa-tren-ca-nuoc-sau-sap-xep-4903454.html) — national interactive lookup for a reform that cut commune-level units by 67% (10,035 → 3,321)
 - [Lookup: 168 New Wards in HCMC After the Merger](https://vnexpress.net/tra-cuu-168-phuong-xa-moi-tai-tp-hcm-sau-sap-nhap-4899275.html) — interactive tool and explainer
 - [How New Ward Names Were Chosen](https://vnexpress.net/ten-phuong-xa-moi-duoc-dat-lai-the-nao-4918502.html) — policy and naming conventions behind Vietnam's administrative reform
 
@@ -254,7 +255,7 @@ Selected works published at [VnExpress](https://vnexpress.net):
 - **VTV24** — [Những nhà báo "đào sâu" tìm dữ liệu (Journalists Who Dig Deep for Data)](https://www.youtube.com/watch?v=aDHUrQCFXro)
 - **Saigoneer** — ["An Indie Archival Project Dreams of Time Travel: How Lots and Lots of Vietnam Maps..."](https://saigoneer.com/vietnam-heritage/28674-an-indie-archival-project-dreams-of-time-travel-how-lots-and-lots-of-vietnam-maps)
 - **Hue Ngay Nay** — [Số hóa bản đồ cổ (Digitizing Historical Maps)](https://huengaynay.vn/du-lich/so-hoa-ban-do-co-163431.html)
-- **Wil Waters GISP** — interview episode on mapping Vietnam's "Great Remapping"
+- **[Geospatial FM](https://www.geospatial.fm/)** — guest episode with Wilfred Waters GISP on mapping Vietnam's administrative remapping (2025)
 - **Presenter** — Engaging with Vietnam 20
 
 ---
