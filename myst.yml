@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Lê Quang Tuệ — Data & Geospatial Storyteller
+  title: Lê Quang Tuệ — Geospatial Engineer & Data Journalist
   description: Portfolio of Lê Quang Tuệ — data journalism, geospatial research, and civic open-source tools on Vietnamese urban planning, climate, and disaster.
   keywords:
     - Vietnam
@@ -23,6 +23,7 @@ project:
   github: lqtue/portfolio
   toc:
     - file: index.md
+    - file: cv.md
 site:
   options:
     logo: logo.png

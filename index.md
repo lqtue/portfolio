@@ -4,13 +4,17 @@ title: Lê Quang Tuệ
 
 # Lê Quang Tuệ
 
-**Data & Geospatial Storyteller · Open Source Advocate** · Ho Chi Minh City, Vietnam
+**Geospatial Engineer · Data Journalist** · Ho Chi Minh City, Vietnam
 
-I combine maps, data, and visualization to tell stories about the forces shaping Vietnam — from how political history left a "green debt" in its cities, to how a typhoon dismantled a mountainside. With experience at Zing News, VnExpress International, and VnExpress, I report on urban development, public policy, and environmental resilience. I also build open-source civic tools that make geographic and administrative data accessible to the public. I attended the Master of Public Policy program at Fulbright School of Public Policy and Management (FSPPM) and am applying for a PhD in Urban Planning.
+I build geospatial data pipelines, and I write about what they find. That runs from national-scale building datasets and OpenStreetMap completeness measurement, to automated georeferencing of colonial and wartime cartography, to award-winning data journalism on typhoons, floods, and fifty years of urban planning in Ho Chi Minh City. Everything I build ends in something a non-specialist can read — a map, a lookup tool, a story.
 
-[GitHub](https://github.com/lqtue) · [LinkedIn](https://vn.linkedin.com/in/lqtue) · [VnExpress](https://vnexpress.net) · [Download CV](https://github.com/lqtue/VWAI/blob/main/team/CV_Tue.docx.pdf)
+Formerly data journalist at VnExpress (2024–2026), Zing News, and VnExpress International; in 2026, geospatial and AI specialist on Texas Tech University's Vietnam Wartime Accounting Initiative and map operations engineer at Tasco Maps. I attended the Master of Public Policy program at Fulbright School of Public Policy and Management (FSPPM) and am applying for a PhD in Urban Planning.
 
-**Jump to:** [Awards](#awards) · [Education](#education) · [Research](#research-interests) · [Publications](#publications) · [Projects](#projects) · [Journalism](#data-journalism) · [Skills](#skills) · [Press & Talks](#press--talks) · [Contact](#contact)
+**Available for remote, deliverable-scoped work** in geospatial data, historical map digitisation, and map-quality measurement.
+
+[GitHub](https://github.com/lqtue) · [LinkedIn](https://vn.linkedin.com/in/lqtue) · [VnExpress](https://vnexpress.net) · [CV](cv.md)
+
+**Jump to:** [Awards](#awards) · [Experience](#experience) · [Education](#education) · [Research](#research-interests) · [Publications](#publications) · [Projects](#projects) · [Journalism](#data-journalism) · [Skills](#skills) · [Press & Talks](#press--talks) · [Contact](#contact)
 
 ---
 
@@ -37,6 +41,22 @@ National Journalism Award 2024
 *VnExpress*
 :::
 ::::
+
+---
+
+## Experience
+
+**Geospatial & AI/LLM Specialist** — Vietnam Wartime Accounting Initiative, Vietnam Center & Sam Johnson Vietnam Archive, *Texas Tech University* · 2026 · remote contract
+Georeferencing of wartime maps; conversion of wartime grid and datum references (Indian 1960, UTM) to modern frameworks; AI-assisted extraction from degraded and handwritten archival documents for MIA case reconstruction. Technical lead of the team's AI/ML proposal covering a 2.7-million-page collection.
+
+**Map Operations Engineer** — *VTII / Tasco Maps* · 2026
+National building datasets for Vietnam in GeoParquet (Google Open Buildings, Global Building Atlas, Overture, Meta HRSL); a stratified height benchmark establishing what open global products can and cannot deliver for low-rise urban fabric; an H3-indexed OpenStreetMap completeness index of Hanoi with a Bayesian collection-tasking model; and the LOD1–LOD3 specification for a mobile 3D-buildings product.
+
+**Data Journalist** — *VnExpress*, Spotlight Desk · 2024–2026
+Built the data infrastructure behind the coverage as well as the graphics: a typhoon platform crawling NOAA/JTWC into PostGIS behind a REST API, hourly river and reservoir crawlers, and interactive maps and lookup tools. Credited as *Dữ liệu và Đồ họa: Quang Tuệ*.
+
+**Media & Communications Officer** — *Fulbright Urban Social Economics (FUSE)* · 2024–
+**Journalist** — *VnExpress International*, Business Desk · 2022 · **Journalist** — *Zing News*, World Desk · 2021
 
 ---
 
@@ -76,13 +96,13 @@ Satellite imagery from 1990–2025 reveals that Ho Chi Minh City shed 130 km² o
 
 ::::{grid} 1 1 2 3
 :::{card}
-:link: https://svelte-beta-eight.vercel.app
+:link: https://maparchive.vn
 ![](images/vma.png)
 **Vietnam Map Archive (VMA)**
 
-Research infrastructure for the spatial history of Saigon — the first systematic georeferencing of French colonial and US Army cartographic sources for Ho Chi Minh City. Built as a SvelteKit 5 platform with a 6-layer data stack (georeferenced rasters → cadastral footprints → road networks → knowledge graph → community memory), crowdsourced annotation, AI-assisted vectorization (SAM2), and GPS-guided historical tours.
+Research infrastructure for the spatial history of Saigon — the first systematic georeferencing of French colonial and US Army cartographic sources for Ho Chi Minh City. Built and operated solo: 101 maps catalogued, 39 georeferenced, a 394-name historical gazetteer, IIIF hosting with Internet Archive redundancy, toponym extraction by LLM with a human review interface, SAM2 building segmentation, and GPS-guided historical tours. The US Army L7014 series (535 sheets, 1:50,000) is georeferenced automatically, including an Indian 1960 → WGS 84 datum correction.
 
-*OpenLayers · MapLibre GL · Supabase · PostGIS · Featured in Saigoneer & Hue Ngay Nay*
+*SvelteKit · OpenLayers · Allmaps · IIIF · PostGIS · PMTiles · Featured in Saigoneer, Huế Ngày Nay & VTV24*
 :::
 
 :::{card}
@@ -103,6 +123,24 @@ Systematic analysis of five decades of planning decisions shaping Ho Chi Minh Ci
 Interactive lookup tool for Ho Chi Minh City's new administrative divisions following the 2025 merger. Search by name or GPS location — returns ward statistics, boundaries, and links to new offices.
 
 *LeafletJS · Tailwind CSS · OpenStreetMap*
+:::
+
+:::{card}
+:link: https://github.com/lqtue/HACW
+**Hội An Creative Week**
+
+Mobile-first festival PWA: 25 destinations, two-tier GPS and quiz check-in, an on-device stamp passport with points and rank tiers, themed walking tours, and an organizer dashboard that rebalances crowds across sites. Works fully offline; check-in analytics land in Cloudflare D1 instead of a third-party tracker.
+
+*SvelteKit · Cloudflare Pages + D1 · service worker*
+:::
+
+:::{card}
+:link: https://github.com/spotlightvne
+**Newsroom data tools (Spotlight)**
+
+The shared data stack behind VnExpress's environment and disaster coverage: hourly crawlers for 16 river stations and 22 reservoirs, commune-level landslide and flash-flood risk maps for Huế and Đà Nẵng, ward-level PM2.5 for Hanoi, flood-extent mapping from satellite imagery, and costing tools for policy stories.
+
+*Python · GitHub Actions · deck.gl · Supabase*
 :::
 
 :::{card}
@@ -170,16 +208,23 @@ Selected works published at [VnExpress](https://vnexpress.net):
 
 **Air Quality & Environment**
 - [How Many Cigarettes Do Hanoians "Smoke" Daily From Pollution?](https://vnexpress.net/nguoi-ha-noi-hut-thu-dong-bao-nhieu-dieu-thuoc-moi-ngay-do-o-nhiem-4988529.html)
+- [Why Hòa Thịnh and Đông Hòa Became Flood Basins](https://vnexpress.net/tai-sao-hoa-thinh-dong-hoa-thanh-ron-lu-4976051.html) — terrain, rainfall and road embankments behind a 46-hour inundation
 
 ---
 
 ## Skills
 
+**Geospatial**
+`Georeferencing & GCP propagation` `IIIF` `Allmaps` `GDAL / PROJ` `Datum & grid conversion (Indian 1960, VN2000, UTM)` `H3` `GeoParquet` `PMTiles` `OpenStreetMap` `QGIS` `CityJSON / 3D Tiles`
+
 **Research & Analysis**
-`Satellite imagery (Sentinel-2)` `NDVI / LST` `GIS & spatial analysis` `Data visualization` `Investigative journalism`
+`Satellite imagery (Sentinel-2)` `NDVI / LST` `Bayesian estimation` `Map-quality & completeness measurement` `Data visualization` `Investigative journalism`
 
 **Engineering**
-`Python` `PostgreSQL / PostGIS` `SvelteKit` `OpenLayers` `MapLibre GL` `REST APIs` `Supabase` `GeoJSON`
+`Python (geopandas, rasterio, GDAL)` `PostgreSQL / PostGIS` `SvelteKit` `TypeScript` `OpenLayers` `MapLibre GL` `Supabase` `Cloudflare Pages / R2 / D1` `Playwright`
+
+**AI in production**
+`Schema-constrained LLM extraction` `Document & map OCR pipelines` `SAM2 / LoRA fine-tuning` `Human-in-the-loop review design`
 
 **Languages**
 `Vietnamese (native)` `English (professional)`
