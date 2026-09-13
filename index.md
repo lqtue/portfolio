@@ -28,7 +28,7 @@ Hội Báo Toàn Quốc 2025
 
 [Sài Gòn — Ngày 30/4](https://vnexpress.net/sai-gon-ngay-30-4-4876938.html) · Interactive multimedia retrospective on April 30, 1975 — the fall of Saigon — combining archival maps, audio, video testimony, and timeline narrative.
 
-*With Đình Hoàng & Thành Hà · VnExpress*
+*With Hoàng Khánh & Thanh Hạ · VnExpress*
 :::
 
 :::{card}
