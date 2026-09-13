@@ -208,26 +208,35 @@ Central index and documentation for all Spotlight environmental data projects �
 
 ## Data Journalism
 
-Selected works published at [VnExpress](https://vnexpress.net):
+Bylined as **Quang Tuệ** at [VnExpress](https://vnexpress.net), 2024–2026. Twenty-two published pieces; selected below.
 
-**Urban Planning & History**
-- ★ [Sài Gòn — Ngày 30/4](https://vnexpress.net/sai-gon-ngay-30-4-4876938.html) — interactive multimedia retrospective on April 30, 1975 *(Giải B, Hội Báo Toàn Quốc 2025)*
-- ↗ [50 Years of Saigon Urban Planning](https://vnexpress.net/topic/50-nam-quy-hoach-tp-hcm-28042) — see Projects above
-- [Lookup: 3,321 Wards and Communes Nationwide After the Reorganization](https://vnexpress.net/tra-cuu-3-321-phuong-xa-tren-ca-nuoc-sau-sap-xep-4903454.html) — national interactive lookup for a reform that cut commune-level units by 67% (10,035 → 3,321)
-- [Lookup: 168 New Wards in HCMC After the Merger](https://vnexpress.net/tra-cuu-168-phuong-xa-moi-tai-tp-hcm-sau-sap-nhap-4899275.html) — interactive tool and explainer
-- [How New Ward Names Were Chosen](https://vnexpress.net/ten-phuong-xa-moi-duoc-dat-lai-the-nao-4918502.html) — policy and naming conventions behind Vietnam's administrative reform
+**Urban Planning, History & Administrative Reform**
+- [Cuộc tái thiết giao thông TP HCM sau thống nhất](https://vnexpress.net/cuoc-tai-thiet-giao-thong-tp-hcm-sau-thong-nhat-4874813.html) — 2025-04-17
+- [Cuộc tái thiết đô thị Sài Gòn sau chiến tranh](https://vnexpress.net/cuoc-tai-thiet-do-thi-sai-gon-sau-chien-tranh-4876771.html) — 2025-04-22
+- [Giấc mơ hướng biển và tương lai đô thị TP HCM sau sáp nhập](https://vnexpress.net/giac-mo-huong-bien-va-tuong-lai-do-thi-tp-hcm-sau-sap-nhap-4878252.html) — 2025-04-25
+- [Hình hài Sài Gòn - TP HCM thay đổi thế nào sau 50 năm](https://vnexpress.net/hinh-hai-sai-gon-tp-hcm-thay-doi-the-nao-sau-50-nam-4878274.html) — 2025-04-26
+- [Sài Gòn - Ngày 30/4](https://vnexpress.net/sai-gon-ngay-30-4-4876938.html) — 2025-04-29 · ★ *Giải B, Hội Báo Toàn Quốc 2025*
+- [Việt Nam thay đổi thế nào sau sáp nhập tỉnh, thành](https://vnexpress.net/viet-nam-thay-doi-the-nao-sau-sap-nhap-tinh-thanh-4885968.html) — 2025-06-12
+- [Tra cứu 168 phường xã mới tại TP HCM sau sáp nhập](https://vnexpress.net/tra-cuu-168-phuong-xa-moi-tai-tp-hcm-sau-sap-nhap-4899275.html) — 2025-06-28
+- [Tương lai 'siêu đô thị' TP HCM](https://vnexpress.net/tuong-lai-sieu-do-thi-tp-hcm-4906730.html) — 2025-07-01
+- [Tên phường xã mới được đặt lại thế nào](https://vnexpress.net/ten-phuong-xa-moi-duoc-dat-lai-the-nao-4918502.html) — 2025-08-01
 
 **Extreme Weather & Disaster**
-- ★ [Trong mắt bão Yagi](https://vnexpress.net/trong-mat-bao-yagi-4795556.html) — inside Vietnam's strongest typhoon in 70 years *(Giải C, Giải Báo Chí Quốc Gia XIX 2024)*
-- [2025: A Year of Extreme Disasters](https://vnexpress.net/2025-nam-thien-tai-cuc-han-4999742.html)
-- [Sleepless Nights in the Flood Zone — Hoa Thinh](https://vnexpress.net/dem-vo-vong-o-ron-lu-hoa-thinh-4947063.html)
-- [Historic Flood Levels on Rivers in Dak Lak and Khanh Hoa](https://vnexpress.net/lu-song-o-dak-lak-khanh-hoa-vuot-muc-lich-su-4962647.html)
-- [Why Flood Defense Layers in Thai Nguyen and Bac Ninh Could Not Hold](https://vnexpress.net/tai-sao-cac-lop-phong-thu-ngap-cua-thai-nguyen-bac-ninh-khong-the-cuu-nguy-4950247.html)
-- [The Battle in Central Vietnam's Flood Corridors](https://vnexpress.net/cuoc-chien-can-nao-o-ron-lu-mien-trung-4960029.html)
+- [Yagi - cơn bão tăng cấp bất thường](https://vnexpress.net/yagi-con-bao-tang-cap-bat-thuong-4789948.html) — 2024-09-07
+- [Cảnh báo 'tím' lan rộng các tỉnh phía Bắc sau bão Yagi](https://vnexpress.net/canh-bao-tim-lan-rong-cac-tinh-phia-bac-sau-bao-yagi-4790448.html) — 2024-09-09
+- [Vì sao Lào Cai, Cao Bằng, Yên Bái hứng chịu sạt lở, lũ quét?](https://vnexpress.net/vi-sao-lao-cai-cao-bang-yen-bai-hung-chiu-sat-lo-lu-quet-4793081.html) — 2024-09-17
+- [Trong mắt bão Yagi](https://vnexpress.net/trong-mat-bao-yagi-4795556.html) — 2024-09-24 · ★ *Giải C, Giải Báo chí Quốc gia XIX*
+- [Tại sao các lớp phòng thủ ngập của Thái Nguyên, Bắc Ninh không thể 'cứu nguy'](https://vnexpress.net/tai-sao-cac-lop-phong-thu-ngap-cua-thai-nguyen-bac-ninh-khong-the-cuu-nguy-4950247.html) — 2025-10-12
+- [Cuộc chiến cân não ở 'rốn lũ' miền Trung](https://vnexpress.net/cuoc-chien-can-nao-o-ron-lu-mien-trung-4960029.html) — 2025-11-05
+- [Kalmaegi là bão mạnh nhất đổ bộ Quảng Ngãi - Gia Lai 5 năm qua](https://vnexpress.net/kalmaegi-la-bao-manh-nhat-do-bo-quang-ngai-gia-lai-5-nam-qua-4960531.html) — 2025-11-06
+- [Lũ sông ở Đăk Lăk, Khánh Hoà vượt mức lịch sử](https://vnexpress.net/lu-song-o-dak-lak-khanh-hoa-vuot-muc-lich-su-4962647.html) — 2025-11-19
+- [Tại sao Hòa Thịnh, Đông Hòa thành rốn lũ?](https://vnexpress.net/tai-sao-hoa-thinh-dong-hoa-thanh-ron-lu-4976051.html) — 2025-11-23 · flood extent from 3 m SAR imagery
+- [Đêm vô vọng ở rốn lũ Hòa Thịnh](https://vnexpress.net/dem-vo-vong-o-ron-lu-hoa-thinh-4947063.html) — 2025-11-26
+- [2025 - Năm thiên tai cực hạn](https://vnexpress.net/2025-nam-thien-tai-cuc-han-4999742.html) — 2025-12-30
 
-**Air Quality & Environment**
-- [How Many Cigarettes Do Hanoians "Smoke" Daily From Pollution?](https://vnexpress.net/nguoi-ha-noi-hut-thu-dong-bao-nhieu-dieu-thuoc-moi-ngay-do-o-nhiem-4988529.html)
-- [Why Hòa Thịnh and Đông Hòa Became Flood Basins](https://vnexpress.net/tai-sao-hoa-thinh-dong-hoa-thanh-ron-lu-4976051.html) — terrain, rainfall and road embankments behind a 46-hour inundation
+**Economy, Education & Environment**
+- [Người Việt đầu tư học tiếng Anh thế nào](https://vnexpress.net/nguoi-viet-dau-tu-hoc-tieng-anh-the-nao-4796385.html) — 2025-01-02
+- [Người Hà Nội 'hút' thụ động bao nhiêu điếu thuốc mỗi ngày do ô nhiễm?](https://vnexpress.net/nguoi-ha-noi-hut-thu-dong-bao-nhieu-dieu-thuoc-moi-ngay-do-o-nhiem-4988529.html) — 2025-12-02
 
 ---
 
