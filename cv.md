@@ -45,6 +45,8 @@ Map-quality and 3D-building data science for a commercial mapping platform.
 ### Data Journalist — VnExpress, Spotlight Desk · 2024 – 2026
 Built the data infrastructure behind the coverage, not only the graphics: a typhoon platform crawling NOAA/JTWC into PostGIS behind a REST API; hourly crawlers for 16 river stations and 22 reservoirs; commune-level landslide and flash-flood risk maps; a ward-lookup tool for Vietnam's 2025 administrative merger; a national power-infrastructure dashboard. Credited as *Dữ liệu và Đồ họa: Quang Tuệ*.
 
+Also in this period: built and openly released the **2025 Vietnam Administrative Dataset** for Vietnam's post-merger geography, now redistributed across the Vietnamese geospatial community; published a technical audit of the government's new official administrative map, which was served unsecured and placed islands on the mainland; opened the desk's data work as public GitHub repositories; and produced rapid-response maps during Typhoon Wipha and the Tân Phú apartment fire.
+
 Earlier: **Journalist**, VnExpress International, Business Desk (2022); **Journalist**, Zing News, World Desk (2021). **Media & Communications Officer**, Fulbright Urban Social Economics (2024–).
 
 ---

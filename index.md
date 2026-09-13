@@ -126,6 +126,24 @@ Interactive lookup tool for Ho Chi Minh City's new administrative divisions foll
 :::
 
 :::{card}
+:link: https://www.linkedin.com/in/lqtue/recent-activity/all/
+**2025 Vietnam Administrative Dataset**
+
+Open boundary dataset for Vietnam's post-merger administrative geography, built and released when no authoritative open version existed. Picked up and redistributed across the Vietnamese geospatial community, and the base layer under the ward-lookup tool and the newsroom's merger coverage.
+
+*QGIS · GeoJSON / GeoPackage · open release*
+:::
+
+:::{card}
+:link: https://www.linkedin.com/in/lqtue/recent-activity/all/
+**Vietnam's Map Merging Mishap**
+
+A technical audit of the government's new official administrative map, published openly: the service was unrestricted and unsecured, and its geometry put islands on the mainland. Written up as a deep dive rather than a complaint — what was wrong, how it was found, and what it means for anyone building on the data.
+
+*Data audit · web services · public write-up*
+:::
+
+:::{card}
 :link: https://github.com/lqtue/HACW
 **Hội An Creative Week**
 
@@ -236,6 +254,7 @@ Selected works published at [VnExpress](https://vnexpress.net):
 - **VTV24** — [Những nhà báo "đào sâu" tìm dữ liệu (Journalists Who Dig Deep for Data)](https://www.youtube.com/watch?v=aDHUrQCFXro)
 - **Saigoneer** — ["An Indie Archival Project Dreams of Time Travel: How Lots and Lots of Vietnam Maps..."](https://saigoneer.com/vietnam-heritage/28674-an-indie-archival-project-dreams-of-time-travel-how-lots-and-lots-of-vietnam-maps)
 - **Hue Ngay Nay** — [Số hóa bản đồ cổ (Digitizing Historical Maps)](https://huengaynay.vn/du-lich/so-hoa-ban-do-co-163431.html)
+- **Wil Waters GISP** — interview episode on mapping Vietnam's "Great Remapping"
 - **Presenter** — Engaging with Vietnam 20
 
 ---
